@@ -5,6 +5,10 @@ if u have any ideas for a new name lemme know
 
 <img width="604" height="295" alt="image" src="https://github.com/user-attachments/assets/a820e5ee-9889-4846-bdac-d3ad36ec70db" />
 
+# IMPORTANT
+
+your monitors resolution should be 1920x1080 at 100% scale (default for a 1920x1080 monitor) anything else will not work until i add support
+
 
 # Installation Guide
 
@@ -18,8 +22,3 @@ step 3: after downloading clash royale make an alt account and add your main acc
 
 step 4: spectate yourself in a game and it should start working
 
-
-
-# IMPORTANT
-
-# your monitors resolution should be 1920x1080 at 100% scale (default for a 1920x1080 monitor) anything else will be unsupported for now
