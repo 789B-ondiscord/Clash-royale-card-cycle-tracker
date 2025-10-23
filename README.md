@@ -9,7 +9,7 @@ if u have any ideas for a new name lemme know
 
 your monitors resolution should be 1920x1080 at 100% scale (default for a 1920x1080 monitor) anything else will not work until i add support
 
-# Installation Guide
+# Installation Guide - BLUESTACKS SUPPORT COMING SOON
 
 step 1: download and install memu emulator from the official website https://www.memuplay.com
 
