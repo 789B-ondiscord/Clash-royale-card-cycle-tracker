@@ -1,4 +1,4 @@
-# Clash-royale-card-cycle-tracker
+# an open source clash royale card cycle tracker
 
 
 ### this application uses 2 accounts to track which cards are in your opponents hand. you can either play on your main account from your phone and specate from pc or use 2 different emulators
@@ -45,4 +45,3 @@ step 4: (IMPORTANT) make sure you maximize your memu application. dont collapse 
 <img width="230" height="44" alt="image" src="https://github.com/user-attachments/assets/c715547e-ac17-485d-a8c0-7b4f3a7a7ebc" />
 
 step 5: spectate your main account in a game and it should start working
-
