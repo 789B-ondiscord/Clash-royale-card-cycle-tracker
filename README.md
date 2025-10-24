@@ -1,4 +1,4 @@
-# an open source clash royale card cycle tracker
+# a closed source clash royale card cycle tracker (sorry its not closed source)
 
 
 ### this application uses 2 accounts to track which cards are in your opponents hand. you can either play on your main account from your phone and specate from pc or use 2 different emulators
@@ -28,7 +28,12 @@ step 4: (IMPORTANT) make sure you maximize your BlueStacks application. dont col
 
 <img width="222" height="70" alt="image" src="https://github.com/user-attachments/assets/e5c8b2eb-b384-45b9-91ac-a7e64c3b9041" />
 
-step 5: spectate your main account in a game and it should start working
+step 5: disable ads in bluestacks!! pretty important step otherwise it wont work
+
+<img width="823" height="634" alt="image" src="https://github.com/user-attachments/assets/b91d1095-eca8-4cf1-967e-2319f6944bec" />
+
+
+step 6: spectate your main account in a game and it should start working
 
 # Installation Guide - MEmu Emulator
 
